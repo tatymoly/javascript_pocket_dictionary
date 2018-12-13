@@ -1,16 +1,16 @@
-# Javascript Pocket Dictionary
+<h1 align="center">Javascript Pocket Dictionary</h1>
 
 <div align="center">
-    <img src="https://ctl.s6img.com/society6/img/QMOtGJt5dNiwH9GzMuZWjmyHsEE/w_700/coffee-mugs/swatch/~artwork,fw_4600,fh_2000,iw_4600,ih_2000/s6-0078/a/31238575_2795244/~~/cute-avocado-and-stone-mugs.jpg" width="100%"/>
+    <img src="https://res.cloudinary.com/teepublic/image/private/s--v_WFc6GC--/t_Preview/b_rgb:9cb58c,c_limit,f_jpg,h_630,q_90,w_630/v1486560585/production/designs/1194988_1.jpg" width="400"/>
   <br>
   <p>
-    <em>This is a cute Avocado Photo, just because.
+    <em>There you go, a cute Avocado Photo, just because.
     </em>
   </p>
 </div>
 
 ## What is this? 🤔
-This is just a repo that contains a list of concepts explained as I personally understand them. I might be wrong so don't judge me, instead teach me. 
+This is just a repo that contains a list of concepts explained as I personally understand them. I might be wrong so don't judge me, instead teach me. 👩‍🏫
 
 ## Contributing 🙋
 Would you like to help? Feel free to send your pull request. Add new concepts or edit the ones that could be improved! All help is welcome 😊
