@@ -1,9 +1,9 @@
 
 ### 1. Javascript
 
-Javascript is a lightweight scripting language, primarily used on the web. It allows you to implement complex things on web applications. It's also used to add interactive features to web apps. It was created by Netscape. 
+Javascript is a lightweight scripting language, primarily used on the web. It allows you to implement complex things on web applications and is also used to add interactive features to web apps. It was created by Netscape. 
 
-Javascript is a multi paradigm programming language. It has functional programming, scripting, object oriented, imperative.
+Javascript is a multi paradigm programming language. It has functional, scripting, "object oriented", imperative. (More?)
 
 ### 2. ECMA and ES6
 
@@ -13,11 +13,12 @@ In ES6, They introduced class-based objects, giving javascript a more object ori
 
 ### 3. Arrow Functions
 
-They are functions written in a simpler way. They are useful because they get ripped off the this making the scope depend on the execution context.
+They are functions written in a simpler way. They are useful because they get ripped off the **this** making the scope depend on the execution context.
 
 ### 4. Let and Const
 
-let and const will create a close scope for a variable, not like var which creates it globally. They prevent hoisting. They are new declarations that allow us to have a better management of the scope.
+They are new declarations that allow us to have a better management of the scope.
+let and const will create a close scope for a variable, not like var which creates it globally. They prevent hoisting. 
 
 ### 5. Hoisting
 
