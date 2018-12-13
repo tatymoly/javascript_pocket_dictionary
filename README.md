@@ -1,7 +1,7 @@
 <h1 align="center">Javascript Pocket Dictionary</h1>
 
 <div align="center">
-    <img src="https://res.cloudinary.com/teepublic/image/private/s--v_WFc6GC--/t_Preview/b_rgb:9cb58c,c_limit,f_jpg,h_630,q_90,w_630/v1486560585/production/designs/1194988_1.jpg" width="400"/>
+    <img src="https://designshop-6aa0.kxcdn.com/photos/avocuddle-fun-love-funny-cards-send-online-9954_81.jpg" width="400"/>
   <br>
   <p>
     <em>There you go, a cute Avocado Photo, just because.
