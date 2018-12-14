@@ -22,7 +22,7 @@ This is just a repo that contains a list of concepts explained as I personally u
 
 Would you like to help? Feel free to send your pull request. Add new concepts or edit the ones that could be improved! All help is welcome 😊
 
-Also, give us that star ⭐ and or maybe a fork 🍴
+Also, give us that star ⭐ and maybe a fork 🍴
 
 We love you ️️❤️
 
