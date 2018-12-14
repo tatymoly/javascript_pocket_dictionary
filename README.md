@@ -12,7 +12,7 @@
 ## What is this? 🤔
 This is just a repo that contains a list of concepts explained as I personally understand them. I might be wrong so don't judge me, instead teach me. 👩‍🏫
 
-## The Bible
+## The Bible 📖
 
 ### <a href="javascript.md">JavaScript Concepts</a>
 
