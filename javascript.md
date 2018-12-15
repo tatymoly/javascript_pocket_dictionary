@@ -42,7 +42,7 @@ To avoid blocking the UI and making the browser unresponsive we can use asynchro
 
 ### 9. Callbacks
 
-Is the most most fundamental async pattern in javascript. These are functions that will be executed once some other instruction has been done.
+It's the most fundamental async pattern in javascript. These are functions that will be executed once some other instruction has been done.
 
 ### 10. Callback hell
 
@@ -50,7 +50,7 @@ It happens when many callbacks are nested into one function.
 
 ### 11. Promises
 
-Are an easier way to handle callbacks. They provide a more organized way to write our functions. Are basically the same, the next instruction wont be executed until the promise has a response.
+An easier way to handle callbacks. They provide a more organized way to write our functions. They are basically the same as **Callbacks**: the next instruction wont be executed until the promise has a response.
 
 ### 12. Closures
 
@@ -78,7 +78,7 @@ Functional mixins are composable functions which mix new properties or behaviors
 
 ### 16. Typescript
 
-Is a superset of javascript. It was developed by Microsoft. It is transpiled to javascript. Typescript makes code easier to read and understand. It is typed, which means you can assign a type of any variable, and that helps with immutability, because you wont change the type fo the value. Typescript can tell you when you have errors in your code. It has: string, number, undefined, null, symbol, boolean, turple, void and any.
+It's a superset of javascript. It was developed by Microsoft. It is transpiled to javascript. Typescript makes code easier to read and to understand. It is typed, which means you can assign a type of any variable, and that helps with immutability, because you won't be able to change the type of the value. Typescript can tell you when you have errors in your code. It supports several types: string, number, undefined, null, symbol, boolean, turple, void and any.
 
 ### 17. Classes
 
