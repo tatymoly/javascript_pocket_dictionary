@@ -118,4 +118,4 @@ Is an algorithm that automatically performs memory management. If not treated th
 
 ### 26. Pure functions
 
-They are the kind of function that will always return the same values for the same arguments.
+They are the kind of function that will always return the same values for the same arguments, without observable side effects.
